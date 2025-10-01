@@ -1,6 +1,3 @@
-// app/not-found.js
-"use client";
-
 import Footer from "@/components/Footer";
 import Animated404 from "@/components/Animated404";
 
