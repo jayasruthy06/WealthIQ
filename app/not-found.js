@@ -92,8 +92,8 @@ export default function NotFoundPage() {
                 Page Not Found
               </h2>
               <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-                The page you're looking for doesn't exist or has been moved. 
-                Let's get you back on track with your wealth management journey.
+                The page you&apos;re looking for doesn&apos;t exist or has been moved. 
+                Let&apos;s get you back on track with your wealth management journey.
               </p>
             </motion.div>
 
